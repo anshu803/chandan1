@@ -18,7 +18,7 @@ logging.basicConfig(
 logger = logging.getLogger("code_store_bot")
 
 # ====== CONFIG — apni values yahan neeche seedha fill karo ======
-BOT_TOKEN = "8955958124:AAFN0RzF9RgUoaDvMa8E2mxq45grDExT94A"        # BotFather se mila token, e.g. "123456789:AAExampleTokenFromBotFather"
+BOT_TOKEN = "8827214752:AAGeObND4pSDeztVmj8A6dhNqisAlI4XX10"        # BotFather se mila token, e.g. "123456789:AAExampleTokenFromBotFather"
 CHANNEL_ID = "-1004309680225"      # apna private orders channel ID, e.g. "-1001234567890"
 ADMIN_ID = 6644342214                                  # apna numeric Telegram user id, e.g. 5551234567
 
