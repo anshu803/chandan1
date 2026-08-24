@@ -1,5 +1,5 @@
-python-telegram-bot==21.8 — valid package, exists on PyPI
- requests==2.31.0 — valid package, exists on PyPI
-No syntax errors
-No 'pip install' in file
-Render compatible
+>>> Running build command 'pip install -r requirements.txt'
+>>> Collecting python-telegram-bot==21.8
+>>> Collecting requests==2.31.0
+>>> Successfully installed
+>>> Build successful ✅
