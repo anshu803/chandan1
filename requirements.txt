@@ -1,5 +1,1 @@
->>> Running build command 'pip install -r requirements.txt'
->>> Collecting python-telegram-bot==21.8
->>> Collecting requests==2.31.0
->>> Successfully installed
->>> Build successful ✅
+python-telegram-bot==21.8
