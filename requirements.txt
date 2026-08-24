@@ -1,1 +1,11 @@
-pyTelegramBotAPI==4.14.0
+pkg update && pkg upgrade -y
+pkg install python -y
+pip install python-telegram-bot==21.* requests
+nano anshu_bot.py
+# Paste code → Save → Ctrl+X
+
+# Only 2 changes:
+# BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+# ADMIN_ID = 123456789
+
+python anshu_bot.py
