@@ -1,3 +1,2 @@
 
-pkg install python -y
-pip install python-telegram-bot==21.* requests
+pip install python-telegram-bot==21.* reques
