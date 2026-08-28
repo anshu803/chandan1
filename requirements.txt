@@ -1,2 +1,1 @@
-pyTelegramBotAPI
-qrcode[pil]
+pip install groq
